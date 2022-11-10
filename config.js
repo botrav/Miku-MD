@@ -1,15 +1,15 @@
 const fs = require("fs")
 const chalk = require("chalk")
 
-global.available = true
+global.available = false
 global.autoReadGc = true
 global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']
-global.OwnerNumber = ['918101187835']
-global.ownertag = ['918101187835']
+global.Owner = ['94712438266']
+global.OwnerNumber = ['94712438266']
+global.ownertag = ['94712438266']
 global.BotName = "Miku"
 global.packname = "Miku bot"
 global.author = "By: Fantox"
